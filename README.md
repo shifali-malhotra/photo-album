@@ -7,7 +7,7 @@ service (https://jsonplaceholder.typicode.com/photos).
 ## Requirements
 Python >= 3.0.0
 
-[`requirements.txt`](https://github.com/shifali-malhotra/photo-album/blob/main/requirements.txt)
+[`requirements.txt`](https://github.com/shifali-malhotra/photo-album/blob/main/requirements.txt) Contains the latest version of the packages
 
 ## How to Build and Run Program
 - Run `pip install -r requirements.txt`
