@@ -6,6 +6,7 @@ service (https://jsonplaceholder.typicode.com/photos).
 
 ## Requirements
 Python >= 3.0.0
+
 `requirements.txt`
 
 ## How to build and run program
