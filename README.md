@@ -7,12 +7,12 @@ service (https://jsonplaceholder.typicode.com/photos).
 ## Requirements
 Python >= 3.0.0
 
-`requirements.txt`
+[`requirements.txt`](https://github.com/shifali-malhotra/photo-album/blob/main/requirements.txt)
 
-## How to build and run program
+## How to Build and Run Program
 - Run `pip install -r requirements.txt`
 - Run `python photo_album.py <<albumId>>`
   - `albumId` should be any album number between 1 and 100
 
-## How to run tests
+## How to Run Tests
 `python -m unittest test.py`
