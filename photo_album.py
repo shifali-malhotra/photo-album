@@ -20,4 +20,4 @@ def display_photos(album_id):
             for photo in response.json():
                 print(f"{[photo.get('id')]} {photo.get('title')}")
         else:
-            print("Bad response, try again.")
+            print('Bad response, try again.')
