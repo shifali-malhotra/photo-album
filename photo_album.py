@@ -21,5 +21,3 @@ def display_photos(album_id):
                 print(f"{[photo.get('id')]} {photo.get('title')}")
         else:
             print("Bad response, try again.")
-
-run_program()
